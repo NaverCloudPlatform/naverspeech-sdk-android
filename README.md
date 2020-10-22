@@ -4,6 +4,10 @@
 
 자세한 내용은 [네이버개발자 음성인식 API 명세](https://developers.naver.com/docs/labs/vrecog) 및 [Android API Document](http://naver.github.io/naverspeech-sdk-android/) 를 참고하세요.
 
+v.1.1.8
+-------
+#### 1. 금융 API 추가
+
 v.1.1.7
 -------
 #### 1. 최적화를 통해 SDK 사이즈 축소

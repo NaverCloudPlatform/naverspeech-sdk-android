@@ -26,5 +26,5 @@ dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     testImplementation 'junit:junit:4.12'
     implementation 'com.android.support:appcompat-v7:23.4.0'
-    implementation 'com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.7'
+    implementation 'com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.8'
 }
