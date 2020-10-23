@@ -63,7 +63,7 @@ Usage
     jcenter()
   }
   dependencies {
-    compile 'com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.6'
+    compile 'com.naver.speech.clientapi:naverspeech-ncp-sdk-android:1.1.8'
   }
 ```
 **2.** proguard-rules.pro 파일에 아래의 구문을 추가해주세요. 애플리케이션이 보다 가볍고 안전해집니다.
